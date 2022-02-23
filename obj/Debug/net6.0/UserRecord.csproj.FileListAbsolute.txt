@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\UserRecord\bin\Debug\net6.0\UserRecord.exe
+D:\cat32tw\Desktop\UserRecord\bin\Debug\net6.0\UserRecord.deps.json
+D:\cat32tw\Desktop\UserRecord\bin\Debug\net6.0\UserRecord.runtimeconfig.json
+D:\cat32tw\Desktop\UserRecord\bin\Debug\net6.0\UserRecord.dll
+D:\cat32tw\Desktop\UserRecord\bin\Debug\net6.0\ref\UserRecord.dll
+D:\cat32tw\Desktop\UserRecord\bin\Debug\net6.0\UserRecord.pdb
+D:\cat32tw\Desktop\UserRecord\obj\Debug\net6.0\UserRecord.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\UserRecord\obj\Debug\net6.0\UserRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\UserRecord\obj\Debug\net6.0\UserRecord.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\UserRecord\obj\Debug\net6.0\UserRecord.AssemblyInfo.cs
+D:\cat32tw\Desktop\UserRecord\obj\Debug\net6.0\UserRecord.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\UserRecord\obj\Debug\net6.0\UserRecord.dll
+D:\cat32tw\Desktop\UserRecord\obj\Debug\net6.0\ref\UserRecord.dll
+D:\cat32tw\Desktop\UserRecord\obj\Debug\net6.0\UserRecord.pdb
+D:\cat32tw\Desktop\UserRecord\obj\Debug\net6.0\UserRecord.genruntimeconfig.cache
